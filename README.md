@@ -12,6 +12,8 @@ The goal is to complete them in  order to have a functional website and to deplo
 - [ ] Files updated
 - [ ] Changes visible
 
+Finally, cool coderin tricks (that's why we are cool :sunglasses:): how to access a web page with your AdBlocker ON.
+
 The slides will be uploaded here before the start of the session.
 
 ## Next Session: ##
